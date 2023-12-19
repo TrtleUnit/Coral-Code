@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MauiApp_CoralCode.ProfilePage"
-             Title="ProfilePage">
-    <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0">
+             x:Class="MauiApp_CoralCode.ProfilePage">
+    <ScrollView>
+        <Grid
+            
+                Padding="30,0">
 
-        <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="50"
-                HorizontalOptions="End"
-                VerticalOptions="Start"/>
+            <BoxView
+                    Color="Aquamarine"
+                    CornerRadius="10"
+                    WidthRequest="200"
+                    HeightRequest="700"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Start"
+                    Margin="-35"
+                    />
+            <BoxView
+                    Color="Aquamarine"
+                    CornerRadius="10"
+                    WidthRequest="200"
+                    HeightRequest="700"
+                    HorizontalOptions="End"
+                    VerticalOptions="Start"
+                    Margin="-35"
+                
+                    />
+            <Button Text="Go to Main Page"
+            Clicked="OnMainClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" />
 
-            <Label 
-            Text="Welcome to your ProfilePage!"
-            SemanticProperties.HeadingLevel="Level2"
-            FontSize="32"
-            HorizontalOptions="Center" />
-        </VerticalStackLayout>
+            <Image
+                    Source="dotnet_bot.png"
+                    SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                    HeightRequest="50"
+                    HorizontalOptions="End"
+                    VerticalOptions="Start"/>
+            <VerticalStackLayout Padding="30,0">
+                <Label 
+                Text="Welcome to your ProfilePage!"
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="32"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
 </ContentPage>

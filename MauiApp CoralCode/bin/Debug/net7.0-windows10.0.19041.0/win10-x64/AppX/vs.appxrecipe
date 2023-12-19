@@ -30,29 +30,29 @@
     <AppXManifest Include="C:\Repository\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-14T12:04:51.845</Modified>
+      <Modified>2023-12-19T12:23:01.095</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-14T11:55:45.444</Modified>
+      <Modified>2023-12-19T11:34:38.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp CoralCode.runtimeconfig.json">
       <PackagePath>MauiApp CoralCode.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-14T08:46:21.479</Modified>
+      <Modified>2023-12-19T09:46:49.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp CoralCode.dll">
       <PackagePath>MauiApp CoralCode.dll</PackagePath>
-      <Modified>2023-12-14T12:04:50.026</Modified>
+      <Modified>2023-12-19T12:22:59.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp CoralCode.exe</PackagePath>
-      <Modified>2023-12-14T12:04:50.057</Modified>
+      <Modified>2023-12-19T12:22:59.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp CoralCode.deps.json">
       <PackagePath>MauiApp CoralCode.deps.json</PackagePath>
-      <Modified>2023-12-14T08:46:21.209</Modified>
+      <Modified>2023-12-19T09:46:49.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NovaFoxy\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -940,235 +940,235 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:02.561</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:02.622</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:02.714</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:02.785</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.191</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-12-08T12:56:42.198</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-12-08T12:56:42.200</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-12-14T08:11:03.426</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.099</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.130</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.170</Modified>
+      <Modified>2023-12-19T08:35:53.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.201</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.335</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.671</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.671</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.712</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.683</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.694</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.623</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.633</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.663</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.641</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.643</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.459</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.488</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.501</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.511</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.551</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.562</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.572</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.614</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.582</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.592</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.815</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.825</Modified>
+      <Modified>2023-12-19T08:35:53.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.845</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.865</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.916</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.764</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.772</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.774</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.784</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.803</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.714</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.724</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.734</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.744</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.754</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.927</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.957</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.977</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.008</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:04.078</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.582</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.602</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.633</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.671</Modified>
+      <Modified>2023-12-19T08:35:53.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repository\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-12-14T08:11:03.764</Modified>
+      <Modified>2023-12-19T08:35:53.508</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
