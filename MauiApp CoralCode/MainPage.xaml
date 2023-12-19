@@ -28,6 +28,10 @@
                 FontSize="18"
                 HorizontalOptions="Center" />
 
+            <Button Text="Go to Profile Page"
+                Clicked="OnProfileClicked"
+                HorizontalOptions="Center" />
+
             <Button
                 x:Name="CounterBtn"
                 Text="Click me"

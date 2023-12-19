@@ -9,7 +9,13 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
-	private void OnCounterClicked(object sender, EventArgs e)
+    private async void OnProfileClicked(object sender, EventArgs e)
+    {
+        var profilePage = new ProfilePage();
+        await Navigation.PushAsync(profilePage);
+    }
+
+    private void OnCounterClicked(object sender, EventArgs e)
 	{
 		count++;
 
