@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claidi\\source\\repos\\MauiApp CoralCode\\MauiApp CoralCode\\MauiApp CoralCode.csproj": {}
+    "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\MauiApp CoralCode\\MauiApp CoralCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claidi\\source\\repos\\MauiApp CoralCode\\MauiApp CoralCode\\MauiApp CoralCode.csproj": {
+    "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\MauiApp CoralCode\\MauiApp CoralCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claidi\\source\\repos\\MauiApp CoralCode\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
         "projectName": "MauiApp CoralCode",
-        "projectPath": "C:\\Users\\claidi\\source\\repos\\MauiApp CoralCode\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
+        "projectPath": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
         "packagesPath": "C:\\Users\\claidi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claidi\\source\\repos\\MauiApp CoralCode\\MauiApp CoralCode\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\MauiApp CoralCode\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

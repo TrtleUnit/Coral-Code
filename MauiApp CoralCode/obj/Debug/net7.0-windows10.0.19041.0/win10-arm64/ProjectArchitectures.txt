@@ -1,0 +1,1 @@
+\\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\MauiApp CoralCode.csproj;arm64
