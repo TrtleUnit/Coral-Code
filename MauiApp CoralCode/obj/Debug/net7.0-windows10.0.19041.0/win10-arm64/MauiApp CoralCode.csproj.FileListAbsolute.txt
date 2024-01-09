@@ -217,7 +217,6 @@
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\hostfxr.dll
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\hostpolicy.dll
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\mscordaccore.dll
-\\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\mscordaccore_arm64_arm64_7.0.523.17405.dll
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\mscordbi.dll
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\mscorrc.dll
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\msquic.dll
@@ -322,3 +321,5 @@
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-arm64\qualifiers.txt.intermediate
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-arm64\MultipleQualifiersPerDimensionFound.txt
 \\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-arm64\ProjectArchitectures.txt
+\\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\bin\Debug\net7.0-windows10.0.19041.0\win10-arm64\mscordaccore_arm64_arm64_7.0.1423.51910.dll
+\\Mac\Home\Downloads\waseral-main\Coral-Code\MauiApp CoralCode\obj\Debug\net7.0-windows10.0.19041.0\win10-arm64\MauiApp CoralCode.sourcelink.json
