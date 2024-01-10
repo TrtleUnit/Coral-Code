@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiApp CoralCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+37abbd95e1c281f82592965b276c52ffc146f6c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ae8a8803dd0dff28a5aa91d88151e9875fe22937")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiApp CoralCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiApp CoralCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

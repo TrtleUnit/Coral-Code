@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp_CoralCode.FollowingPage">
+    <ScrollView>
+        <Grid Padding="30,30">
+
+            <BoxView
+                    Color="Aquamarine"
+                    CornerRadius="10"
+                    WidthRequest="200"
+                    HeightRequest="700"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Start"
+                    Margin="-35"
+                    />
+            <BoxView
+                    Color="Aquamarine"
+                    CornerRadius="10"
+                    WidthRequest="200"
+                    HeightRequest="700"
+                    HorizontalOptions="End"
+                    VerticalOptions="Start"
+                    Margin="-35"
+                
+                    />
+
+            <VerticalStackLayout>
+                <Button Text="Go to Main Page"
+            Clicked="OnMainClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            WidthRequest="150"/>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="Feed"
+            Clicked="OnFeedClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            WidthRequest="150"/>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="Following"
+            Clicked="OnFollowingClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="For You"
+            Clicked="OnForYouClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
+
+            </VerticalStackLayout>
+            
+            <VerticalStackLayout>
+                <Label 
+            Text="Welcome to Following"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            Padding="30,30"/>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

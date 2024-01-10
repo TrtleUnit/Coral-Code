@@ -34,19 +34,19 @@
             WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="Feed"
-            Clicked="OnMainClicked"
+            Clicked="OnFeedClicked"
             HorizontalOptions="Start"
             VerticalOptions="Start"
             WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="Following"
-            Clicked="OnMainClicked"
+            Clicked="OnFollowingClicked"
             HorizontalOptions="Start"
             VerticalOptions="Start" 
             WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="For You"
-            Clicked="OnMainClicked"
+            Clicked="OnForYouClicked"
             HorizontalOptions="Start"
             VerticalOptions="Start" 
             WidthRequest="150"/>
