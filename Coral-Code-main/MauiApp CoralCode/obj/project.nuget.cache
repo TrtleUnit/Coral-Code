@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qU/WTD/EvHOv6m920vG2CdsDnrsduGCed09ybGlWTGl/gvfAKm4jCwurJ+fzCCtwO4ymTJHq5ci2pdmhgyDEZw==",
+  "dgSpecHash": "TFsHllXVaxY+AV8AKNGPaG/6C2ujJxgq5KSywCbJkysfxSL3dtFvmkxaaf4yjDbTH//UaekEpUyk9Bf0X6N65g==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\Coral-Code-main\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claidi\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\claidi\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

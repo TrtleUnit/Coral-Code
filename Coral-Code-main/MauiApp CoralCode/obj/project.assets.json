@@ -24365,11 +24365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\Coral-Code-main\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
       "projectName": "MauiApp CoralCode",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\Coral-Code-main\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\Coral-Code-main\\MauiApp CoralCode\\MauiApp CoralCode.csproj",
       "packagesPath": "C:\\Users\\claidi\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\Coral-Code-main\\Coral-Code-main\\MauiApp CoralCode\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\waseral-main\\Coral-Code\\Coral-Code-main\\MauiApp CoralCode\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
