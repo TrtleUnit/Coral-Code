@@ -30,22 +30,26 @@
             <Button Text="Go to Main Page"
             Clicked="OnMainClicked"
             HorizontalOptions="Start"
-            VerticalOptions="Start" />
+            VerticalOptions="Start"
+            WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="Feed"
             Clicked="OnMainClicked"
             HorizontalOptions="Start"
-            VerticalOptions="Start" />
+            VerticalOptions="Start"
+            WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="Following"
             Clicked="OnMainClicked"
             HorizontalOptions="Start"
-            VerticalOptions="Start" />
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
             <!-- Needs to have the Clicked Changed to the right version -->
             <Button Text="For You"
             Clicked="OnMainClicked"
             HorizontalOptions="Start"
-            VerticalOptions="Start" />
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
 
             </VerticalStackLayout>
 
