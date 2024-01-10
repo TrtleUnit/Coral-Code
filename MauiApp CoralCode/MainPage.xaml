@@ -11,7 +11,7 @@
                 Color="Aquamarine"
                 CornerRadius="10"
                 WidthRequest="200"
-                HeightRequest="700"
+                HeightRequest="950"
                 HorizontalOptions="Start"
                 VerticalOptions="Start"
                 Margin="-35"
@@ -20,12 +20,13 @@
                 Color="Aquamarine"
                 CornerRadius="10"
                 WidthRequest="200"
-                HeightRequest="700"
+                HeightRequest="950"
                 HorizontalOptions="End"
                 VerticalOptions="Start"
                 Margin="-35"
                 
                 />
+            
 
             <ImageButton
             Source="dotnet_bot.png"

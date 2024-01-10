@@ -26,18 +26,37 @@
                     Margin="-35"
                 
                     />
+            <VerticalStackLayout>
             <Button Text="Go to Main Page"
             Clicked="OnMainClicked"
             HorizontalOptions="Start"
             VerticalOptions="Start" />
+            <!-- Needs to have the Clicked Changed to the right version -->
+            <Button Text="Feed"
+            Clicked="OnMainClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" />
+            <!-- Needs to have the Clicked Changed to the right version -->
+            <Button Text="Following"
+            Clicked="OnMainClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" />
+            <!-- Needs to have the Clicked Changed to the right version -->
+            <Button Text="For You"
+            Clicked="OnMainClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" />
 
-            <Image
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Padding="30,30">
+                <!-- Image needs to be from the logged in User -->
+                <Image
                     Source="dotnet_bot.png"
                     SemanticProperties.Description="Cute dot net bot waving hi to you!"
                     HeightRequest="50"
-                    HorizontalOptions="End"
+                    HorizontalOptions="Center"
                     VerticalOptions="Start"/>
-            <VerticalStackLayout Padding="30,0">
                 <Label 
                 Text="Welcome to your ProfilePage!"
                 SemanticProperties.HeadingLevel="Level2"
