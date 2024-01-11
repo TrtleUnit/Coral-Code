@@ -26,7 +26,6 @@
                 Margin="-35"
                 
                 />
-            
 
             <ImageButton
             Source="dotnet_bot.png"
@@ -35,6 +34,28 @@
             HorizontalOptions="End"
             VerticalOptions="Start"
             Margin="-30,0"/>
+
+            <VerticalStackLayout>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="Feed"
+            Clicked="OnFeedClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            WidthRequest="150"/>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="Following"
+            Clicked="OnFollowingClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="For You"
+            Clicked="OnForYouClicked"
+            HorizontalOptions="Start"
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
+
+            </VerticalStackLayout>
 
             <VerticalStackLayout Padding="30,0">
                 <Image

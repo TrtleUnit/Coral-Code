@@ -59,6 +59,17 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" 
             Padding="30,30"/>
+                <Frame
+                WidthRequest="400"
+                HeightRequest="100"
+                BackgroundColor="AliceBlue"    >
+                    <HorizontalStackLayout>
+                        <Label>Achievement</Label>
+                        <Image></Image>
+                        <Image></Image>
+                    </HorizontalStackLayout>
+
+                </Frame>    
             </VerticalStackLayout>
         </Grid>
     </ScrollView>
