@@ -1,17 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MauiApp_CoralCode.MainPage">
+             x:Class="MauiApp_CoralCode.MainPage"
+             BackgroundColor="White">
 
     <ScrollView>
         <Grid
-            Padding="30,0">
+            Padding="30,30">
 
             <BoxView
                 Color="Aquamarine"
                 CornerRadius="10"
                 WidthRequest="200"
-                HeightRequest="950"
+                HeightRequest="700"
                 HorizontalOptions="Start"
                 VerticalOptions="Start"
                 Margin="-35"
@@ -20,20 +21,12 @@
                 Color="Aquamarine"
                 CornerRadius="10"
                 WidthRequest="200"
-                HeightRequest="950"
+                HeightRequest="700"
                 HorizontalOptions="End"
                 VerticalOptions="Start"
                 Margin="-35"
                 
                 />
-
-            <ImageButton
-            Source="dotnet_bot.png"
-            HeightRequest="50"
-            Clicked="OnProfileClicked"
-            HorizontalOptions="End"
-            VerticalOptions="Start"
-            Margin="-30,0"/>
 
             <VerticalStackLayout>
                 <!-- Needs to have the Clicked Changed to the right version -->
@@ -55,8 +48,26 @@
             VerticalOptions="Start" 
             WidthRequest="150"/>
 
+                <!-- Needs to have the Clicked Changed to the right version -->
+                <Button Text="Create"
+            Clicked="OnForYouClicked"
+            HorizontalOptions="End"
+            VerticalOptions="Start" 
+            WidthRequest="150"/>
+
+
             </VerticalStackLayout>
 
+
+            <ImageButton
+            Source="dotnet_bot.png"
+            HeightRequest="50"
+            Clicked="OnProfileClicked"
+            HorizontalOptions="End"
+            VerticalOptions="Start"
+            Margin="-30,0"/>
+            
+            
             <VerticalStackLayout Padding="30,0">
                 <Image
                 Source="dotnet_bot.png"
