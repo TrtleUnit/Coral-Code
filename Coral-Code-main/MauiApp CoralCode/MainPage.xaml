@@ -1,41 +1,71 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp_CoralCode.MainPage">
 
     <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
+        <Grid Padding="30,0" VerticalOptions="Center">
+            <!--Stacklayout licht blauw links-->
+            <StackLayout 
+                BackgroundColor="Aquamarine" 
+                WidthRequest="200" 
+                HeightRequest="700" 
+                VerticalOptions="Fill" 
+                HorizontalOptions="Start" 
+                Margin="-35">
+            </StackLayout>
+            <!--Stacklayout licht blauw rechts-->
+            <StackLayout 
+                BackgroundColor="Aquamarine" 
+                WidthRequest="200" 
+                HeightRequest="700" 
+                VerticalOptions="Fill" 
+                HorizontalOptions="End" 
+                Margin="-35">
+            </StackLayout>     
+            <!--Dit is het achtergrond van de main feed-->
+            <StackLayout 
+                BackgroundColor="DarkGray" 
+                HeightRequest="700" 
+                WidthRequest="1050" 
+                VerticalOptions="Fill" 
+                HorizontalOptions="Center" 
+                Margin="-35">
+                <!--Dit is het post balk-->    
+                <Grid
+                   BackgroundColor="LightBlue"
+                   HeightRequest="100"
+                   WidthRequest="980"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Fill"
+                   Margin="25">
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
 
-            <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
-
-        </VerticalStackLayout>
+                    <!--Dit staat achter een transparente profiel foto-->
+                    <StackLayout
+                        BackgroundColor="CornflowerBlue"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+                        
+                    </StackLayout>
+                    
+                    <Label Margin="100,13,10,10">Avarage_Programmer808</Label>
+                    <Label Margin="120,47,10,10">Hello World</Label>
+                    
+                    <!--Dacht dat het grappig was...-->
+                    <ImageButton
+                        Source="https://static.wikia.nocookie.net/frieren/images/9/9c/Frieren_anime_portrait.png/revision/latest?cb=20231017083523"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+                    </ImageButton>
+                </Grid>
+            </StackLayout>
+        </Grid>
     </ScrollView>
-
 </ContentPage>
