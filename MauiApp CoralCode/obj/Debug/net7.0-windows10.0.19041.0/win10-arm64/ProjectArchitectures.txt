@@ -1,0 +1,1 @@
+C:\Users\claidi\source\repos\MauiApp CoralCode\MauiApp CoralCode\MauiApp CoralCode.csproj;arm64

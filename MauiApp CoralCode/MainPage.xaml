@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp_CoralCode.MainPage"
+             BackgroundImageSource="C:\Users\claidi\source\repos\MauiApp CoralCode\MauiApp CoralCode\Images\TurtleBackground.png">
+
+    
+
+    <ScrollView>
+
+        
+        <Grid Padding="30,0" VerticalOptions="Center">
+
+            <CollectionView>
+               
+            </CollectionView>
+
+            <!--Dit is het post balk-->
+
+                <Grid
+                   
+                   BackgroundColor="LightBlue"
+                   HeightRequest="100"
+                   WidthRequest="980"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Fill"
+                   Margin="25">
+
+
+                <!--Dit staat achter een transparente profiel foto-->
+                <StackLayout
+                        BackgroundColor="CornflowerBlue"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+
+                </StackLayout>
+                
+                <!--Text-->
+                <Label Margin="100,13,10,10">Avarage_Programmer808</Label>
+                <Label Margin="120,47,10,10">Hello World</Label>
+
+                <!--Dacht dat het grappig was...-->
+                <ImageButton
+                        Source="https://static.wikia.nocookie.net/frieren/images/9/9c/Frieren_anime_portrait.png/revision/latest?cb=20231017083523"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+                </ImageButton>
+            </Grid>
+
+
+            
+
+
+            <!--(2) Dit is het post balk-->
+            <Grid
+                   BackgroundColor="LightBlue"
+                   HeightRequest="400"
+                   WidthRequest="980"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Fill"
+                   Margin="650">
+
+
+                <!--Dit staat achter een transparente profiel foto-->
+                <StackLayout
+                        BackgroundColor="CornflowerBlue"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+
+                </StackLayout>
+
+                <!--Text-->
+                <Label Margin="100,13,10,10">Avarage_Programmer808</Label>
+                <Label Margin="120,47,10,10">Hello World</Label>
+
+                <!--Dacht dat het grappig was...-->
+                <ImageButton
+                        Source="https://static.wikia.nocookie.net/frieren/images/9/9c/Frieren_anime_portrait.png/revision/latest?cb=20231017083523"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Margin="13">
+                </ImageButton>
+            </Grid>
+        </Grid>
+    </ScrollView>
+</ContentPage>
